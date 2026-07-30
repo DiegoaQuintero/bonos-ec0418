@@ -1,0 +1,7 @@
+# Este repositorio solo publica la pagina.
+# Nada de datos del curso: llevan documentos de identidad y correos institucionales.
+*.csv
+*.xlsx
+*.xls
+*.zip
+__pycache__/
